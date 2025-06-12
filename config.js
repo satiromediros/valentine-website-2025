@@ -43,8 +43,8 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "EITAAA você me ama tanto assim?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "ao infinito 🚀💝",              // Shows when they go past 1000%
-        normal: "e além!! 🥰"                           // Shows when they go past 100%
+        high: "e além!! 🥰",              // Shows when they go past 1000%
+        normal: "ao infinito 🚀💝"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
