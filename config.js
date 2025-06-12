@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Davi",
+    valentineName: "Priscila",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Próximo ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Aceita ser meu pra sempre? 🌹", // The big question!
+            text: "Aceitar ser minha mulher até nossos últimos dias 🌹", // The big question!
             yesBtn: "Sim!",                                             // Text for "Yes" button
             noBtn: "Não"                                                 // Text for "No" button
         }
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "EITAAA você me ama tanto assim?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "Quanto amorrrr 🥰💝",  // Shows when they go past 5000%
         high: "e além!! 🥰",              // Shows when they go past 1000%
         normal: "ao infinito 🚀💝"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Caramba, sou muito surtuda mesmo 🎉💝💖💝💓",
-        message: "Amanhã te darei mais alguns presentes, seguidos de beijos e mais beijos!",
+        title: "Sou o homem mais sortudo do mundo🎉💝💖💝💓",
+        message: "Tenho mais algumas surpresas para você hoje, estou me esforçando para segunda feira te fazer feliz",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
