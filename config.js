@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Priscila",
+    valentineName: "Davi",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Você gosta muito de mim?",                                    // First interaction
+            text: "Está muito ansioso pra hoje?",                                    // First interaction
             yesBtn: "Sim",                                             // Text for "Yes" button
             noBtn: "Não",                                               // Text for "No" button
-            secretAnswer: "Eu não gosto de você, eu te amo! ❤️"           // Secret hover message
+            secretAnswer: "Não vejo a hor a de te ver❤️"           // Secret hover message
         },
         second: {
-            text: "Quanto você me ama?",                          // For the love meter
-            startText: "Amo muito",                                   // Text before the percentage
+            text: "Acha que acertei no seu presente?",                          // For the love meter
+            startText: "fala comigo",                                   // Text before the percentage
             nextBtn: "Próximo ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Aceitar ser minha mulher até estarmos velhinhos?🌹", // The big question!
+            text: "Aceita ficar comigo hoje e me fazer uma massagem no pé?🌹", // The big question!
             yesBtn: "Sim!",                                             // Text for "Yes" button
             noBtn: "Não"                                                 // Text for "No" button
         }
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Quanto amorrrr 🥰💝",  // Shows when they go past 5000%
-        high: "e além!! 🥰",              // Shows when they go past 1000%
-        normal: "ao infinito 🚀💝"                           // Shows when they go past 100%
+        extreme: "Com toda certeza!!!",  // Shows when they go past 5000%
+        high: "acho que sim",              // Shows when they go past 1000%
+        normal: "Uhum"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Sou o homem mais sortudo do mundo💓",
-        message: "Tenho mais algumas surpresas para você hoje, segunda e terça! quero que saiba o quanto te amo💝",
+        title: "Espero que ame tudo hoje",
+        message: "Quero muito te ver, te encher de beijos e amor. Te amo mais que tudo nessa vida",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
