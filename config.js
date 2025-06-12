@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Você gosta de mim?",                                    // First interaction
+            text: "Você gosta muito de mim?",                                    // First interaction
             yesBtn: "Sim",                                             // Text for "Yes" button
             noBtn: "Não",                                               // Text for "No" button
             secretAnswer: "Eu não gosto de você, eu te amo! ❤️"           // Secret hover message
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Próximo ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Aceitar ser minha mulher até nossos últimos dias 🌹", // The big question!
+            text: "Aceitar ser minha mulher até estarmos velhinhos?🌹", // The big question!
             yesBtn: "Sim!",                                             // Text for "Yes" button
             noBtn: "Não"                                                 // Text for "No" button
         }
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Sou o homem mais sortudo do mundo🎉💝💖💝💓",
-        message: "Tenho mais algumas surpresas para você hoje, estou me esforçando para segunda feira te fazer feliz",
+        title: "Sou o homem mais sortudo do mundo💓",
+        message: "Tenho mais algumas surpresas para você hoje, segunda e terça! quero que saiba o quanto te amo💝",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
